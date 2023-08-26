@@ -1,0 +1,31 @@
+https://learn.microsoft.com/en-us/azure/ai-services/speech-service/language-support?tabs=tts
+
+The language that you want the app to understand
+
+sv-SE
+en-US
+
+SpeechRecognitionLanguage = "en-US";
+
+-------------    
+
+The language that you want the app to translate speech into.
+
+swedish sv
+japanese ja
+spanish es
+english en
+
+AddTargetLanguage = "es";
+
+-------------
+
+Language that the app should speek: 
+
+sv-SE-SofieNeural
+ja-JP-NanamiNeural
+es-ES-ElviraNeural
+en-US-JennyMultilingualNeural
+en-US-JennyNeural
+    
+SpeechSynthesisVoiceName = "es-ES-ElviraNeural";
